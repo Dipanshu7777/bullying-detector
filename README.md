@@ -2,18 +2,20 @@
 
 A real-time text classification tool built to detect and flag harmful content, including bullying, insults, and toxic comments. This project uses a fine-tuned **BERT** model to understand context and nuance, promoting safer online interactions.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-streamlit-app-link.streamlit.app/)
+If you find this project useful or interesting, please consider giving it a ⭐ star!
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://safegaurd-ai.streamlit.app/)
 
 ---
 ## 🚀 Live Demo
 
 You can try the live application here:
 
-**[https://your-streamlit-app-link.streamlit.app/](https://your-streamlit-app-link.streamlit.app/)** ![Project Screenshot](screenshot.png)
+**[https://safegaurd-ai.streamlit.app/](https://safegaurd-ai.streamlit.app/)**
+
+![Project Screenshot](Screenshot.png)
+
 ---
-
-If you find this project useful or interesting, please consider giving it a ⭐ star!
-
 ## ✨ Key Features
 
 * **High-Performance Detection**: Accurately classifies text into 'Bullying' or 'Not Bullying' categories.
